@@ -1,47 +1,46 @@
 # Hi, I'm Nakshathra S Nair 👋
 
-🎓 B.Tech Computer Science Student at Chinmaya Vishwavidyapeeth  
-📍 Ernakulam, Kerala  
-📊 CGPA: 9.45/10.0  
-💡 Interested in AI, App Development and Smart Systems  
+🎓 B.Tech Computer Science Student  
+📍 Chinmaya Vishwavidyapeeth, Kerala  
+📊 CGPA: 9.45/10  
+
+💡 Passionate about AI, Smart Systems, and App Development  
+🌱 Currently learning Flutter and building real-world projects  
+
+---
 
 ## 🚀 Projects
 
-### HydroNet – Smart Water-Independent Farming System
-🔗 Live Demo: https://nakshathranaksh.github.io/HYDRONET/
+### 🔹 HydroNet – Smart Water-Independent Farming System
+🔗 https://nakshathranaksh.github.io/HYDRONET/
 
-- Designing a self-sustaining hydroponic farming system integrated with an Atmospheric Water Generator (AWG)
-- Building automated monitoring for pH, EC, temperature, water level, and light intensity
-- Developing control logic for pumps and nutrient dosing systems
-- Integrating solar power for off-grid use in water-scarce environments
+- Hydroponic farming system with Atmospheric Water Generator  
+- Sensor-based monitoring (pH, EC, Temperature, Water Level)  
+- Automated control system  
+- Solar-powered sustainable solution  
 
-### Hostel Outpass Management System
-- Developing a web-based hostel outpass management system
-- Currently learning Flutter and building the frontend
-- Planning digital request submission, approval workflows, and status tracking
+---
 
-## 🛠️ Technical Skills
+### 🔹 Hostel Outpass Management System (Ongoing)
+- Web-based system for managing hostel leave requests  
+- Built using Flutter (learning phase)  
+- Includes approval workflows and tracking  
 
-**Languages:** Python, Java, C, SQL  
-**Libraries/Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
-**Database:** MySQL  
-**Concepts:** Object-Oriented Programming, Data Structures and Algorithms, Operating Systems, DBMS  
+---
 
-## 🏆 Leadership & Activities
+## 🛠️ Skills
+- Python, Java, C, SQL  
+- NumPy, Pandas, Scikit-learn  
+- MySQL  
+- OOP, DSA, OS, DBMS  
 
-**Community Lead – IEDC**  
-Feb 2026 – Present  
+---
 
-**Quality & Operations Sub-Lead – IEDC**  
-Feb 2025 – Feb 2026  
+## 🏆 Leadership
+- Community Lead – IEDC (2026–Present)  
+- Quality & Operations Sub-Lead – IEDC (2025–2026)  
 
-- Coordinated idea pitching sessions, hackathons, workshops, and talk sessions
-- Collaborated with multiple colleges and student communities
-- Supported event planning, quality execution, and operational workflows
-
+---
 
 ## 📫 Connect with me
-
 - LinkedIn: https://linkedin.com/in/nakshathranaksh
-- GitHub: https://github.com/nakshathranaksh
-- Email: nakshathranakshofficial@gmail.com
