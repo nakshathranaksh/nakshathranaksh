@@ -52,6 +52,6 @@
 
 ## 📬 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/nakshathranaksh)
-- 📧 [Email Me](mailto:your-email@example.com) ```
+- 📧 [Email Me](nakshathranaksh20@gmail.com) ```
 
 ---
