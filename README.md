@@ -52,7 +52,7 @@
 - **Focus:** User Experience (UX) design and high-performance image optimization for product showcases.
 
 ### 🧪 Mobile App Quality Assurance
-- **Role:** Manual QA Tester for a cross-platform mobile application.
+- **Role:** Manual QA Tester for a mobile application.
 - **Focus:** Performing functional and regression testing to identify UI/UX inconsistencies and logic bugs.
 - **Process:** Documenting test cases and collaborating with developers to improve app stability.
 
