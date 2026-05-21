@@ -2,7 +2,6 @@
 ### B.Tech Computer Science Engineering Student | CGPA: 9.45/10
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nakshathranaksh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nakshathranaksh.github.io/nakshathranaksh/)
 
 ---
 
