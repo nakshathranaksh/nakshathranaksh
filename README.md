@@ -44,6 +44,20 @@
 
 ---
 
+## 💼 Current Work & Freelance
+
+### 🍰 Custom Bakery Catalog (Freelance)
+- **Goal:** Building a responsive catalog website for a local business to transition from offline to online sales.
+- **Key Feature:** Implementing a **WhatsApp API integration** to convert browsing interest into direct orders.
+- **Focus:** User Experience (UX) design and high-performance image optimization for product showcases.
+
+### 🧪 Mobile App Quality Assurance
+- **Role:** Manual QA Tester for a cross-platform mobile application.
+- **Focus:** Performing functional and regression testing to identify UI/UX inconsistencies and logic bugs.
+- **Process:** Documenting test cases and collaborating with developers to improve app stability.
+
+---
+
 ## 📊 GitHub Stats
 ![Nakshathra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakshathranaksh&show_icons=true&theme=radical)
 
