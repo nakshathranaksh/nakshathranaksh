@@ -37,10 +37,6 @@
 - Integrated **IoT sensors** (pH, EC, Temp) for real-time monitoring.
 - Optimized for solar power, reducing external energy dependency by 100%.
 
-### 🏠 Hostel Outpass Management System (In Development)
-- Architecting a cross-platform app using **Flutter** to automate leave requests.
-- Streamlining approval workflows for 500+ students and administration.
-- Implementing secure database tracking for entry/exit logs.
 
 ---
 
